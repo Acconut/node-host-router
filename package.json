@@ -1,0 +1,18 @@
+{
+	"name": "node-http-router",
+	"version": "0.1.0",
+	"description": "A simple HTTP host router",
+	"main": "main.js",
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/Acconut/node-http-router"
+	},
+	"keywords": [
+		"router",
+		"http",
+		"host",
+		"domain"
+	],
+	"author": "Acconut",
+	"license": "BSD"
+}
