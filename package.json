@@ -1,11 +1,11 @@
 {
-	"name": "node-http-router",
+	"name": "host-router",
 	"version": "0.1.0",
 	"description": "A simple HTTP host router",
 	"main": "main.js",
 	"repository": {
 		"type": "git",
-		"url": "http://github.com/Acconut/node-http-router"
+		"url": "http://github.com/Acconut/node-host-router"
 	},
 	"keywords": [
 		"router",
