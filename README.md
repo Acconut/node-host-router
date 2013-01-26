@@ -65,7 +65,7 @@ Routes `hi.yolo.nl`, `sub.foo.yolo.nl` but *not* `yolo.nl`.
 
 > /some-regexp/
 
-A normal Regular Expression, e.g. `some-regexp.com` or `baz.sume-regexp.hi.nz`.
+A normal Regular Expression, e.g. `some-regexp.com` or `baz.some-regexp.hi.nz`.
 
 ## License ##
 
@@ -75,4 +75,4 @@ A normal Regular Expression, e.g. `some-regexp.com` or `baz.sume-regexp.hi.nz`.
 
 ### Attribution
 
-Just refer to this repository in some page like imprint, about or contact. Please.
+No attribution needed.
